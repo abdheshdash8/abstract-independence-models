@@ -1,3 +1,19 @@
+__pycache__/
+
+.ipynb_checkpoints/
+
+*.pyc
+
+*.Rhistory
+
+*.RData
+
+.env
+
+.vscode/
+
+.idea/
+
 # History files
 .Rhistory
 .Rapp.history

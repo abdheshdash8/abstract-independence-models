@@ -1,0 +1,15 @@
+numpy
+
+networkx
+
+pandas
+
+matplotlib
+
+pytest
+
+jupyter
+
+graphviz
+
+rpy2

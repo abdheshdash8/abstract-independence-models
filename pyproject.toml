@@ -1,0 +1,11 @@
+[project]
+
+name = "aim"
+
+version = "0.1.0"
+
+description = "Algorithms for Abstract Conditional Independence Models"
+
+authors = [
+    {name="Abdhesh Dash"}
+]

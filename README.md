@@ -21,7 +21,7 @@ Department of Statistical Science
 University College London
 
 ## GitHub Repository Structure
-
+```
 abstract-independence-models/
 │
 ├── LICENSE
@@ -76,6 +76,7 @@ abstract-independence-models/
 └── reports/
     ├── Progress_Report_01.pdf
     └── figures/
+```
 
 ## Current Status
 

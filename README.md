@@ -94,6 +94,4 @@ abstract-independence-models/
 
 Lauritzen (1996)
 
-Studený (2005)
-
 Sadeghi (2024)
